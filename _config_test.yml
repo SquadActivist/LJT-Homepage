@@ -1,2 +1,16 @@
-title: "Junteng Liu"
-description: "test"
+title                    : "Junteng Liu"
+title_separator          : "-"
+name                     : &name "Junteng Liu"
+description              : &description "Junteng Liu's academic portfolio"
+url                      : https://squadactivist.github.io
+baseurl                  : "/LJT-Homepage"
+repository               : "SquadActivist/LJT-Homepage"
+author:
+  avatar           : "profile.png"
+  name             : "Junteng Liu"
+  bio              : "First-year PhD candidate at HKUST NLP Group"
+  employer         : "Hong Kong University of Science and Technology"
+  email            : "jliugi@connect.ust.hk"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
+  github           : "Vicent0205"
+  twitter          : "junteng88716710"
